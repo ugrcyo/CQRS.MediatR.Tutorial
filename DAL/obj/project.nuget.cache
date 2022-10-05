@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PlHkXnhk/TvDLmjeil9aXhbTDDbGdff5iJH/Rl6P4S9HW7FrzL+Pl1wGKvY/hCoanUpE25eaFxNZA5kYOvZ/qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ugurcan.yazicioglu\\Desktop\\Ugur\\CQRS.Tutorial(MediatR).Api\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ugurcan.yazicioglu\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\ugurcan.yazicioglu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
